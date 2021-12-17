@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image from API</string>
+    <string name="api_random_image_link">https://jsonplaceholder.typicode.com/albums/1/photos</string>
+    <string name="get_image">Получить изображение!</string>
+    <string name="image_is_loading">Изображение загружается....</string>
+    <string name="image_here">Здесь будет изображение</string>
+    <string name="image_load_fail">Ошибка при попытке загрузки!\nПроверьте подключение к
+        интернету и попробуйте позже!</string>
+    <string name="image_output_sample">Внимание ШУТКА!\n{0}\n[{1};{2};{3};{4};{5};{6}]</string>
+    <string name="loading">Скачиваем изображение…</string>
+</resources>
